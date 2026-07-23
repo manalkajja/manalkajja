@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**manalkajja/manalkajja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm *Manal*, a Full Stack Developer student from Morocco.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies and building simple web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Git
+- Linux
+
+### Currently
+- 🌱 Learning Full Stack Development
+- 🤖 Working on an AI E-commerce Project
+
+### Fun Facts
+- ☕ I prefer tea over coffee.
+- 💻 I enjoy coding and learning new things.
+- 🚀 Always improving my skills.
